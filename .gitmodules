@@ -1,0 +1,4 @@
+[submodule "odooshfrd/bias_trunk"]
+	path = odooshfrd/bias_trunk
+	url = git@github.com:odooshfrd/bias_trunk.git
+	branch = 12.0
