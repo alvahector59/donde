@@ -12,3 +12,8 @@
 	path = miguelandmiguel/Localizacion-Mexico-Odoo_12
 	url = git@github.com:miguelandmiguel/Localizacion-Mexico-Odoo_12.git
 	branch = master
+
+[submodule "odooshfrd/hr"]
+	path = odooshfrd/hr
+	url = git@github.com:odooshfrd/hr.git
+	branch = 12.0
